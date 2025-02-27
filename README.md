@@ -93,41 +93,5 @@
 </table>
 
 
-<ol>
-
-      <li>sreedhar</li>
-      <li>subbu</li>
-      <li>nihanth</li>
-
-
-</ol>
-
-<ol type="A">
-
-       <li>poori</li>
-       <li>dosa</li>
-       <li>ildy</li>
-
-</ol>
-
-<ol type="a"start="5">
-
-
- <li> man
-     <ol>
-      <li>books</li>
-      <li>pens</li>
-
-</ol>
-
-
-<ul>
-<li>sreedhar</li>
-
-</ul> 
-                   
-</body>
-
-
 
 </html>
